@@ -1,0 +1,17 @@
+# Raw / large data files (do not commit — download separately, see README)
+*.txt
+!README.md
+GSE38246_series_matrix.txt*
+*.RData
+*.rda
+
+# R session / history
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# OS junk
+.DS_Store
+Thumbs.db
